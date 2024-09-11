@@ -1,0 +1,22 @@
+# Ignore all .class files
+*.class
+
+# Ignore all directories called bin or build (common directories for compiled code)
+bin/
+build/
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore Maven target directory (used for compiled files)
+target/
+
+# Ignore Gradle build files and directories
+.gradle/
+build/
