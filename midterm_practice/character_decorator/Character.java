@@ -1,4 +1,6 @@
 interface Character{
-    public double attack_power();
-    public String description();
+    int getAttack();
+    int getDefense();
+    int getSpeed();
+    int getHealth();
 }
