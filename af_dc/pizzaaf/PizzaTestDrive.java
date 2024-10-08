@@ -1,5 +1,3 @@
-package headfirst.designpatterns.factory.pizzaaf;
-
 public class PizzaTestDrive {
  
 	public static void main(String[] args) {

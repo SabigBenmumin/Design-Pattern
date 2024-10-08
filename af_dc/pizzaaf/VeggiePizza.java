@@ -1,5 +1,3 @@
-package headfirst.designpatterns.factory.pizzaaf;
-
 public class VeggiePizza extends Pizza {
 	PizzaIngredientFactory ingredientFactory;
  

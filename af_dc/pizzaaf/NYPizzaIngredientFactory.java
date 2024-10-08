@@ -1,5 +1,3 @@
-package headfirst.designpatterns.factory.pizzaaf;
-
 public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
  
 	public Dough createDough() {

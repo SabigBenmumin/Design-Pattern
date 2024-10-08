@@ -1,5 +1,3 @@
-package headfirst.designpatterns.factory.pizzaaf;
-
 public abstract class Pizza {
 	String name;
 
