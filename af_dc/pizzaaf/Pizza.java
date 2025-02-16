@@ -8,6 +8,10 @@ public abstract class Pizza {
 	Pepperoni pepperoni;
 	Clams clam;
 
+	public int cost(){
+		return 0;
+	};
+	
 	abstract void prepare();
 
 	void bake() {
